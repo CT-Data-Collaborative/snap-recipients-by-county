@@ -1,8 +1,8 @@
 SNAP Recipients by County
 
-A short description of the project.
+SNAP Recipients by County reports the number and percent of households that receive SNAP, by race/ethnicity of the householder.
 
-Data Source: <[link to raw data source]>
+Data Source: U.S. Census ACS 5-Year Estimates Tables B22005A-I
 
 ## License MIT
 
